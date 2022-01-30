@@ -1,5 +1,6 @@
-🗼Hanoi-Tower
-     The Tower of Hanoi (also called the Tower of Brahma or Lucas' Tower and sometimes pluralized) is a mathematical game or puzzle. It consists of three rods and a number of disks of different sizes, which can slide onto any rod. The puzzle starts with the disks in a neat stack in ascending order of size on one rod, the smallest at the top, thus making a conical shape.
+**🗼Hanoi-Tower**<br>
+
+The Tower of Hanoi (also called the Tower of Brahma or Lucas' Tower and sometimes pluralized) is a mathematical game or puzzle. It consists of three rods and a number of disks of different sizes, which can slide onto any rod. The puzzle starts with the disks in a neat stack in ascending order of size on one rod, the smallest at the top, thus making a conical shape.
 
 The objective of the puzzle is to move the entire stack to another rod, obeying the following simple rules:
 
@@ -11,8 +12,10 @@ Animation of an iterative algorithm solving 6-disk problem
 
 With 3 disks, the puzzle can be solved in 7 moves. The minimal number of moves required to solve a Tower of Hanoi puzzle is 2^n − 1, where n is the number of disks.
 
-Steps to Run the Project:
-    Click make move button to create the hanoi tower,then keep on click the make button to solve the puzzle.
+**Steps to Run the Project**<br>
 
-Future Improments:
-    This projects can be further enhanced by adding 3D animation to the disk.
+Click make move button to create the hanoi tower,then keep on click the make button to solve the puzzle.
+
+**Future Improments**<br>
+
+This projects can be further enhanced by adding 3D animation to the disk.
